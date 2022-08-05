@@ -1,0 +1,9 @@
+body{
+    background-image: cover;
+}
+
+canvas{
+    border: 5px solid aliceblue;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
